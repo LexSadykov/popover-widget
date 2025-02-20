@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/github/LexSadykov/popover-widget?branch=main&svg=true)](https://ci.appveyor.com/project/LexSadykov/popover-widget)
+[Деплой на GitHub Pages](https://LexSadykov.github.io/popover-widget/)
